@@ -21,7 +21,7 @@ onMounted(() => {
     <h1>Bomb 데이터</h1>
     <ul>
       <li>
-        {{ bombs }}asdfasdffd
+        {{ bombs }}asdfasdffdasdgasdgasdgadsgasdg
       </li>
     </ul>
   </div>
